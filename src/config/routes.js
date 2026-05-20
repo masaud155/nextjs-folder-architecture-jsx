@@ -6,7 +6,7 @@ export const routes = {
   register: "/register",
   dashboard: "/dashboard",
   settings: "/settings",
-  github: "https://github.com/your-username/nextjs-scalable-folder-structure-jsx"
+  github: "https://github.com/masaud155/nextjs-folder-architecture-jsx"
 };
 
 export const navItems = [

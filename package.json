@@ -5,8 +5,8 @@
   "description": "A practical Next.js App Router starter architecture for large production applications using JavaScript and JSX.",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "node init && next dev",
+    "build": "node init && next build",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
